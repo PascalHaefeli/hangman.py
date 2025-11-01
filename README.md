@@ -1,2 +1,9 @@
-# hangman.py
-A non-graphical version of the popular game "Hangman" I created for use via the terminal as an exercise. There are two versions of it - one relies on a dictionary on Linux and does not run on other OS. The other picks a word from Frankenstein via Project Gutenberg and runs on most OS, but requires an internet connection and is slower to execute.
+This script is licensed under the GNU General Public License 3.0. Feel free to use and modify it however you see fit!
+
+If you use the first version - you must have installed a dictionary under /usr/share/dict/words. Depending on your distibution, it may or may not be preinstalled. I prefer this version as it runs offline and executes faster, but if you are not on Linux or do not want to install the dictionary, it will not run.
+
+The second version picks words from the first chapter of Mary Shelly's Frankenstein on Project Gutenberg, which means you need to be online, it is slower to execute and the pool of words is limited. However, it should run on most OS.
+
+Regardless, this game was created for terminals. It can be run directly in your IDE, as well. It does not feature any graphics and is purely text-based.
+
+Have fun with it!
