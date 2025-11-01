@@ -1,8 +1,3 @@
-"""
-Strukturierte Programmierung, Seminar 2, 16.10.2025
-Auftrag: Hangman in Python (ohne Galgen)
-"""
-
 import random
 import platform
 
